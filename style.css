@@ -1,0 +1,30 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rosybrown;
+    }
+h1{
+    font-size: 40px;
+    text-align: center;
+    color: #b31f7d
+    }
+p{
+    font-size: 20px;
+    text-align: center;
+    color: #59083b
+    }
+.img_button {
+    text-align: center;
+    transform: scale(1,1);
+    }
+
+.button {
+    text-align: center;
+	padding: 16px;
+	background-color: rgb(128, 0, 102);
+	border-radius: 16px;
+    width: 90px;
+    transform: scale(2,2);
+    } 
